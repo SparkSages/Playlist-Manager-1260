@@ -1,0 +1,5 @@
+/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/obj/Debug/net7.0/Playlist Manager.csproj.AssemblyReference.cache
+/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/obj/Debug/net7.0/Playlist Manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/obj/Debug/net7.0/Playlist Manager.AssemblyInfoInputs.cache
+/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/obj/Debug/net7.0/Playlist Manager.AssemblyInfo.cs
+/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/obj/Debug/net7.0/Playlist Manager.csproj.CoreCompileInputs.cache

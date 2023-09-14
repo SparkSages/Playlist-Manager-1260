@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/spark/Projects/Playlist Managers/Playlist Manager/Playlist Manager.csproj": {}
+    "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/Playlist Manager.csproj": {}
   },
   "projects": {
-    "/Users/spark/Projects/Playlist Managers/Playlist Manager/Playlist Manager.csproj": {
+    "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/Playlist Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/spark/Projects/Playlist Managers/Playlist Manager/Playlist Manager.csproj",
+        "projectUniqueName": "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/Playlist Manager.csproj",
         "projectName": "Playlist Manager",
-        "projectPath": "/Users/spark/Projects/Playlist Managers/Playlist Manager/Playlist Manager.csproj",
+        "projectPath": "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/Playlist Manager.csproj",
         "packagesPath": "/Users/spark/.nuget/packages/",
-        "outputPath": "/Users/spark/Projects/Playlist Managers/Playlist Manager/obj/",
+        "outputPath": "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/spark/.nuget/NuGet/NuGet.Config"
