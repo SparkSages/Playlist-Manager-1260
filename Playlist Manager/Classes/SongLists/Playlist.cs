@@ -1,4 +1,5 @@
 using Classes;
+using Classes.DalhoverClasses.DistinctRand;
 namespace SongLists
 {
     public class Playlist : Songlist
