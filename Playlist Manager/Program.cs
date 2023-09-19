@@ -4,7 +4,7 @@ using SongLists;
 Song song = new Song("Hero", "Skillet", new TimeSpan(0, 3, 23), Genre.Rock);
 Song song1 = new Song("Wrecking ball", "Some girl", new TimeSpan(0, 3, 0), Genre.Pop);
 Song song2 = new Song("Atomic", "Blondie", new TimeSpan(0, 3, 0), Genre.Pop);
-Song song3 = new Song("Still Stranding", "Slimcicle", new TimeSpan(0, 3, 0), Genre.Other);
+Song song3 = new Song("Still Stranding", "Slimecicle", new TimeSpan(0, 3, 0), Genre.Other);
 
 Playlist playlist = new Playlist("Playlist Title", song, song1, song2);
 
