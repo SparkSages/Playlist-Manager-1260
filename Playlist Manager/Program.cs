@@ -54,3 +54,20 @@ Album album = new Album("Album Title", "Artist", new DateTime(2020, 1, 1), new s
 Console.WriteLine(song.ListAlbum());
 Console.ResetColor();
 Console.ReadKey();
+
+
+Console.ForegroundColor = ConsoleColor.Green;
+System.Console.WriteLine("Displaying information about a song");
+System.Console.WriteLine(song1);
+Console.WriteLine(song.ListAlbum());
+Console.ResetColor();
+Console.ReadKey();
+Console.Clear();
+
+
+Console.ForegroundColor = ConsoleColor.Green;
+System.Console.WriteLine("Displaying information about an album");
+System.Console.WriteLine(album);
+Console.ResetColor();
+Console.ReadKey();
+Console.Clear();
