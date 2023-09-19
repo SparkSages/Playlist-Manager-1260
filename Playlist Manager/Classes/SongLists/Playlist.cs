@@ -53,7 +53,7 @@ namespace SongLists
         {
             DistinctRandom rand = new DistinctRandom(0, SongList.Count);
             List<Song> shuffledPlaylist = new List<Song>();
-            foreach(Song song in SongList)
+            foreach (Song song in SongList)
             {
                 shuffledPlaylist.Add(SongList[rand.Next()]);
             }

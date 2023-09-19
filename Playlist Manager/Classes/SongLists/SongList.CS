@@ -8,8 +8,6 @@ namespace SongLists
         public List<Song> SongList { get; protected set; } = new List<Song>();
         public TimeSpan TotalRuntime { get; protected set; } = new TimeSpan(0, 0, 0);
         public string Title { get; protected set; } = "Untitled";
-
-
         /// <summary>
         /// This creates a new <see cref="Songlist"/> with the given <see cref="Title" and any number of <see cref="Song"/>s./>
         /// </summary>
@@ -56,7 +54,7 @@ namespace SongLists
         /// This method is used to add a <see cref="Song"/> to the playlist
         /// </summary>
         /// <param name="song">Song to add</param>
-        private void AddSong(Song song)
+        public void AddSong(Song song)
         {
             SongList.Add(song);
             TotalRuntime += song.Duration;

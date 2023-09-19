@@ -8,25 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/spark/.nuget/packages/": {}
+    "C:\\Users\\Spark\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/Playlist Manager.csproj",
+      "projectUniqueName": "C:\\Users\\Spark\\Downloads\\Playlist-Manager-1260\\Playlist Manager\\Playlist Manager.csproj",
       "projectName": "Playlist Manager",
-      "projectPath": "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/Playlist Manager.csproj",
-      "packagesPath": "/Users/spark/.nuget/packages/",
-      "outputPath": "/Users/spark/Downloads/Playlist-Manager-1260/Playlist Manager/obj/",
+      "projectPath": "C:\\Users\\Spark\\Downloads\\Playlist-Manager-1260\\Playlist Manager\\Playlist Manager.csproj",
+      "packagesPath": "C:\\Users\\Spark\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Spark\\Downloads\\Playlist-Manager-1260\\Playlist Manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/spark/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Spark\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
