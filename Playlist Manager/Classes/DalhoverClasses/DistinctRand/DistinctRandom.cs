@@ -2,11 +2,29 @@
 
 namespace Classes.DalhoverClasses.DistinctRand
 {
+    /// <summary>
+    /// Represents a random number generator that will not repeat a number until all numbers have been used
+    /// </summary>
     public class DistinctRandom
     {
+        /// <summary>
+        /// The minimum selectable value
+        /// </summary>
         int minValue { get; set; }
+
+        /// <summary>
+        /// The maximum value exclusive
+        /// </summary>
         int maxValue { get; set; }
+
+        /// <summary>
+        /// The list of options to choose from
+        /// </summary>
         List<int> options = new List<int>();
+
+        /// <summary>
+        /// The index of the current option
+        /// </summary>
         private int optionsIndex;
 
         /// <summary>

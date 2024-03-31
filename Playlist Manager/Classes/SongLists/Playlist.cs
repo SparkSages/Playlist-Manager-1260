@@ -4,29 +4,25 @@ namespace SongLists
 {
     public class Playlist : Songlist
     {
+        /// <inheritdoc />
         public Playlist(string title) : base(title)
         {
 
         }
-
+        /// <inheritdoc />
         public Playlist(string title, params Song[] songs) : base(title, songs)
         {
 
         }
-
+        /// <inheritdoc />
         public Playlist(List<Song> songList, string title) : base(songList, title)
         {
 
         }
 
-
-
-
-        /////////////////////////////////////////////////
-        ///
-        /// not sure what this method is meant to do yet.
-        ///
-        /////////////////////////////////////////////////
+        /// <summary>
+        /// This method is used to retrieve a song from the playlist at an index
+        /// </summary>
         public Song RetrieveSong(int index)
         {
             return SongList[index];

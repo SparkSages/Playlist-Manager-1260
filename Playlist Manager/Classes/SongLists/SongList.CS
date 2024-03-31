@@ -3,6 +3,9 @@ using System.Runtime.InteropServices;
 using Classes;
 namespace SongLists
 {
+    /// <summary>
+    /// Represents a list of songs.
+    /// </summary>
     public abstract class Songlist
     {
         public List<Song> SongList { get; protected set; } = new List<Song>();
